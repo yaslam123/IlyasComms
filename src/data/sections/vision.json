@@ -1,0 +1,36 @@
+{
+  "title": "Our Objectives",
+  "subtitle": "Good Vision",
+  "items": [
+    {
+      "title": "ADAPTIBILITY",
+      "icon": "/img/icons/11.svg",
+      "text": "Adopt a defined communications strategy tailor-made for specific clients, based on client vision and needs towards high returns and growth."
+    },
+    {
+      "title": "BUILDING",
+      "icon": "/img/icons/11.svg",
+      "text": "Build brand awareness of our clients: initiatives, products and services."
+    },
+    {
+      "title": "PROVIDING",
+      "icon": "/img/icons/11.svg",
+      "text": "Provide a unique messaging design that is reflective of clients’ needs and desired goals."
+    },
+    {
+      "title": "STEPING IN",
+      "icon": "/img/icons/11.svg",
+      "text": "Step in to provide reliable crisis communications and reputation management through calculated PR and design communications."
+    },
+    {
+      "title": "IMPLEMENTATION",
+      "icon": "/img/icons/11.svg",
+      "text": "Implement large-scale local and international communications projects on reviews, monitoring, evaluation, documentation, reporting and media relations."
+    },
+    {
+      "title": "CONTRIBUTION",
+      "icon": "/img/icons/11.svg",
+      "text": "Contribute to social and public campaigns through design communications by producing public service announcements, messaging towards public good, trainings and mentorships."
+    }
+  ]
+}

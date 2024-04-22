@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "image": "/img/Personal/worldbank.png",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/Personal/OPM.png",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/Personal/Alight.png",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/Personal/MU.png",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/Personal/Hormud.png",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/Personal/Ilayscomms-logo.png",
+      "alt": "logo"
+    }
+  ]
+}

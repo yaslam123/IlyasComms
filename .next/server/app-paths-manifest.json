@@ -1,0 +1,9 @@
+{
+  "/(pages)/team/page": "app/(pages)/team/page.js",
+  "/(pages)/services/[id]/page": "app/(pages)/services/[id]/page.js",
+  "/(pages)/team/[id]/page": "app/(pages)/team/[id]/page.js",
+  "/(pages)/blog/page": "app/(pages)/blog/page.js",
+  "/(pages)/about/page": "app/(pages)/about/page.js",
+  "/(pages)/contact/page": "app/(pages)/contact/page.js",
+  "/(pages)/page": "app/(pages)/page.js"
+}

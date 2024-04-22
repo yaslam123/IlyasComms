@@ -1,0 +1,31 @@
+{
+  "title": "What We Do",
+  "subtitle": "Services",
+  "button": {
+    "label": "See More",
+    "link": "/services"
+  },
+  "items": [
+    {
+      "icon": "/img/icons/3.svg",
+      "num": "01.",
+      "title": "Design Communications",
+      "text": "We create visual, print and verbal elements that convey your message effectively and attractively.",
+      "link": "/services"
+    },
+    {
+      "icon": "/img/icons/5.svg",
+      "num": "02.",
+      "title": "Strategic Communications",
+      "text": "We develop strategic communications plans that cover all aspects of comms goals and needs, both corporate and public.",
+      "link": "/services"
+    },
+    {
+      "icon": "/img/icons/4.svg",
+      "num": "03.",
+      "title": "Branding",
+      "text": "We look beyond logos and slogans. We also focus on the identity and what makes your brand unique. Through refreshed tagline and tone, selective..",
+      "link": "/services"
+    }
+  ]
+}
