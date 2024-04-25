@@ -4,9 +4,6 @@ import { useState } from "react";
 import Data from "@data/sections/about.json";
 import Link from "next/link";
 
-import ModalVideo from "react-modal-video";
-import "react-modal-video/css/modal-video.css";
-
 const AboutSection = () => {
   const [isOpen, setOpen] = useState(false);
 
@@ -73,15 +70,6 @@ const AboutSection = () => {
         </div>
       </section>
 
-      <ModalVideo
-        channel="youtube"
-        isOpen={isOpen}
-        videoId={Data.button.link.replace(
-          "https://www.youtube.com/watch?v=",
-          ""
-        )}
-        onClose={() => setOpen(false)}
-      />
       {/* about end */}
     </>
   );
