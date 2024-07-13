@@ -7,7 +7,6 @@ import { usePathname } from "next/navigation";
 
 const DefaultHeader = () => {
   const [toggle, setToggle] = useState(false);
-  const [activeSubMenu, setActiveSubMenu] = useState(null);
   const [isScrolled, setIsScrolled] = useState(false);
   const asPath = usePathname();
 
@@ -15,18 +14,12 @@ const DefaultHeader = () => {
     return (asPath.indexOf(path) !== -1 && path !== "/") || asPath === path;
   };
 
-  const handleSubMenuClick = (index, e) => {
-    e.preventDefault();
-    setActiveSubMenu(activeSubMenu === index ? null : index);
-  };
-
   useEffect(() => {
     // close mobile menu
     setToggle(false);
 
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 11);
-      // console.log(isScrolled);
+      setIsScrolled(window.scrollY > 10);
     };
 
     window.addEventListener("scroll", handleScroll);
@@ -59,39 +52,12 @@ const DefaultHeader = () => {
                 <ul>
                   {AppData.header.menu.map((item, index) => (
                     <li
-                      className={`mil-has-children ${
+                      className={`${
                         isPathActive(item.link) ? "mil-active" : ""
                       }`}
                       key={`header-menu-item-${index}`}
                     >
-                      <Link
-                        href={item.link}
-                        // onClick={
-                        //   item.children.length > 0
-                        //     ? (e) => handleSubMenuClick(index, e)
-                        //     : null
-                        // }
-                      >
-                        {item.label}
-                      </Link>
-                      {/* {item.children.length > 0 && (
-                        <ul
-                          className={
-                            activeSubMenu === index ? "mil-active" : ""
-                          }
-                        >
-                          {item.children.map((subitem, subIndex) => (
-                            <li
-                              key={`header-submenu-item-${subIndex}`}
-                              className={
-                                isPathActive(subitem.link) ? "mil-active" : ""
-                              }
-                            >
-                              <Link href={subitem.link}>{subitem.label}</Link>
-                            </li>
-                          ))}
-                        </ul>
-                      )} */}
+                      <Link href={item.link}>{item.label}</Link>
                     </li>
                   ))}
                 </ul>
@@ -102,14 +68,14 @@ const DefaultHeader = () => {
             <div className="mil-top-panel-buttons">
               {/* <Link href="/contact" className="mil-button mil-sm">
                 Contact Us
-              </Link>
+              </Link> */}
 
               <div
                 className={`mil-menu-btn ${toggle ? "mil-active" : ""}`}
                 onClick={() => setToggle(!toggle)}
               >
                 <span></span>
-              </div> */}
+              </div>
             </div>
             {/* right buttons end */}
           </div>
