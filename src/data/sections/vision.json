@@ -1,0 +1,36 @@
+{
+  "title": "Our Objectives",
+  "subtitle": "Good Vision",
+  "items": [
+    {
+      "title": "Marketing Excellence",
+      "icon": "/img/icons/11.svg",
+      "text": "Tailoring innovative strategies for digital marketing, SEO, social media, and content creation to boost your brand’s growth."
+    },
+    {
+      "title": "Media Mastery",
+      "icon": "/img/icons/11.svg",
+      "text": "Creating captivating visual content through expert video production, photography, and graphic design to enhance brand storytelling."
+    },
+    {
+      "title": "Effective Communication",
+      "icon": "/img/icons/11.svg",
+      "text": "Enhancing your brand’s voice with strategic public relations and corporate communications for impactful messaging."
+    },
+    {
+      "title": "Quality Construction",
+      "icon": "/img/icons/11.svg",
+      "text": "Delivering high-quality construction services, prioritizing safety, timeliness, and superior craftsmanship in every project."
+    },
+    {
+      "title": "Interior Innovation",
+      "icon": "/img/icons/11.svg",
+      "text": "Transforming spaces with creative and functional interior design solutions that blend aesthetics and practicality."
+    },
+    {
+      "title": "Innovative ICT Solutions",
+      "icon": "/img/icons/11.svg",
+      "text": "Providing cutting-edge software development, network solutions, cybersecurity, and IT consulting to help businesses leverage technology."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "settings": {
+    "siteName": "Taban Enterprise",
+    "siteDescription": "Counsultant Agency",
+    "formspreeURL": "https://formspree.io/f/your_api_key",
+    "mailchimp": {
+      "url": "",
+      "key": ""
+    },
+    "perPage": 6
+  },
+  "header": {
+    "logo": {
+      "imageColored": "/img/logo/taban-04-04.png",
+      "imageWhite": "/img/logo/taban-04-05.png",
+      "alt": "Logo"
+    },
+    "menu": [
+      {
+        "label": "Home",
+        "link": "/"
+      },
+      {
+        "label": "About Us",
+        "link": "/about"
+      },
+      {
+        "label": "Services",
+        "link": "/services",
+        "children": [
+          {
+            "label": "Services List",
+            "link": "/services"
+          },
+          {
+            "label": "Single Service",
+            "link": "/services/service-1"
+          }
+        ]
+      },
+      {
+        "label": "Blog",
+        "link": "/#",
+        "children": [
+          {
+            "label": "Blog list",
+            "link": "/blog"
+          },
+          {
+            "label": "Publication",
+            "link": "/blog/the-infrastructure-that-powers-the-world"
+          }
+        ]
+      },
+      {
+        "label": "Contact Us",
+        "link": "/contact"
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "image": "/img/logo/taban-04-05.png",
+      "alt": "Logo"
+    },
+    "copy": "© 2024 Ilyas Comms. All rights reserved.",
+    "menu": [
+      {
+        "label": "About",
+        "link": "/about"
+      },
+      {
+        "label": "Services",
+        "link": "/services"
+      },
+      {
+        "label": "Projects",
+        "link": "/projects"
+      },
+      {
+        "label": "Blog",
+        "link": "/blog"
+      },
+      {
+        "label": "Contact",
+        "link": "/contact"
+      }
+    ]
+  },
+  "social": [
+    {
+      "link": "https://facebook.com",
+      "title": "Facebook"
+    },
+    {
+      "link": "https://twitter.com",
+      "title": "Twitter"
+    },
+    {
+      "link": "https://instagram.com",
+      "title": "Instagram"
+    },
+    {
+      "link": "https://youtube.com",
+      "title": "Youtube"
+    }
+  ],
+  "projects": {
+    "categories": [
+      {
+        "name": "Architecture",
+        "slug": "architecture"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
+      },
+      {
+        "name": "Decor",
+        "slug": "decor"
+      }
+    ]
+  },
+  "team": {
+    "categories": [
+      {
+        "name": "Executive",
+        "slug": "executive"
+      },
+      {
+        "name": "Data centers",
+        "slug": "data-centers"
+      },
+      {
+        "name": "Education",
+        "slug": "education"
+      },
+      {
+        "name": "Workplace",
+        "slug": "workplace"
+      }
+    ]
+  }
+}

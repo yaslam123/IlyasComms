@@ -1,0 +1,20 @@
+{
+  "title": "Years of Experience",
+  "subtitle": "Our Experts",
+  "description": "At Taban Enterprise, we bring decades of expertise in architecture and design to every project. Our commitment to quality and innovation has earned us a reputation as one of the top firms in the industry. With a dedicated global team and a portfolio of successful projects, we are driven by a singular goal: to create environments where our clients thrive.",
+  "image": {
+    "url": "/img/photo/14.jpg",
+    "alt": "image"
+  },
+  "avatar": {
+    "image": "/img/Personal/pic.jpg",
+    "name": "Yaslam Osman",
+    "subname": "Project Agent"
+  },
+  "items": [
+    "1250 Projects Carried out Only in the EE.UU.",
+    "A Great Work Team Globally",
+    "+ 940 Projects Carried Out in the World",
+    "+ 100 Billion Invested in Projects"
+  ]
+}

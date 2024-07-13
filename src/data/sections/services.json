@@ -1,0 +1,31 @@
+{
+  "title": "What We Do",
+  "subtitle": "Services",
+  "button": {
+    "label": "See More",
+    "link": "/services"
+  },
+  "items": [
+    {
+      "icon": "/img/icons/9.svg",
+      "num": "01.",
+      "title": "ICT Solutions",
+      "text": "Empowering Your Business with Cutting-Edge Technology Solutions",
+      "link": "/services"
+    },
+    {
+      "icon": "/img/icons/3.svg",
+      "num": "02.",
+      "title": "Marketing",
+      "text": "Unlock the Full Potential of Your Brand with Comprehensive Marketing Solutions",
+      "link": "/services"
+    },
+    {
+      "icon": "/img/icons/4.svg",
+      "num": "03.",
+      "title": "Media Production",
+      "text": "Transform Your Brand with Stunning Visual Media: Creating Content that Resonates",
+      "link": "/services"
+    }
+  ]
+}

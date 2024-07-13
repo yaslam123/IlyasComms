@@ -1,0 +1,17 @@
+{
+  "image": {
+    "url": "/img/Personal/About us.png",
+    "alt": "img"
+  },
+  "number": {
+    "value": "6",
+    "label": "<span class=\"mil-marker\">Years</span> of <br/>successful <br/>work"
+  },
+  "title": "Great experience",
+  "subtitle": "About Us",
+  "description": "Taban Enterprise is dedicated to providing exceptional services across various industries. Our core values are integrity, innovation, and client satisfaction. Discover our journey and what sets us apart.",
+  "button": {
+    "link": "https://www.youtube.com/watch?v=49EiVhugMIs&ab_channel=mica_chan",
+    "label": "Watch video"
+  }
+}
