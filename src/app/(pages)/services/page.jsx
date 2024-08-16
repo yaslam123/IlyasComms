@@ -27,7 +27,7 @@ async function Services() {
       <PageBanner
         pageTitle={"Our Services"}
         breadTitle={"Services"}
-        bgImage={"/img/Personal/services bg.jpeg"}
+        bgImage={"/img/Personal/services.jpg"}
       />
 
       {/* services */}

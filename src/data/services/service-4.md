@@ -1,6 +1,6 @@
 ---
 #preview details
-title: "Construction and Interior Design"
+title: "Investment"
 icon: "/img/icons/5.svg"
 short: "Transform Your Brand with Stunning Visual Media: Crafting Captivating Content that Resonates and Inspires"
 
@@ -9,20 +9,22 @@ description:
   - layout: 1
     title: Description
     content:
-      <p>Welcome to Taban Enterprise Construction and Interior Design From residential to industrial projects, we deliver high-quality construction services, emphasizing safety and timeliness. Additionally, we transform your spaces with our expert interior design services, tailored to reflect your unique style and needs.</p>
-      <p>Who We Are Taban Enterprise is committed to delivering exceptional construction and interior design services with a focus on quality, safety, and efficiency. Our experienced team ensures every project is completed to the highest standards, whether it's constructing a new building or redesigning an existing space.</p>
+      <p>At Taban Enterprise, our Investment Sector is at the forefront of driving transformative growth and innovation across a broad spectrum of industries. We specialize in identifying and managing high-potential investment opportunities that are aligned with our vision of fostering long-term success and creating value.We identify and manage high-potential investment opportunities to create value and achieve exceptional returns. Our approach includes strategic analysis, innovative investments, risk management, growth acceleration, value creation, and expert guidance.</p>
+      <p> Our comprehensive approach encompasses</p>
     divider: true
 
   - layout: 2
     title: Benefits
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>At Taban Enterprise, our Investment Sector is dedicated to unlocking substantial value and driving growth through strategic investment opportunities. We focus on delivering the following benefits to ensure exceptional outcomes</p>
+    
     list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
+      - Expert Insight
+      - Value Creation
+      - Accelerated Development
+      - Risk Mitigation
+      - Innovation and Efficiency
+
     divider: false
 
 sidebar:
@@ -31,46 +33,40 @@ sidebar:
     - layout: list
       title: Our Services
       content:
-        - Residential Construction
-        - Commercial Construction
-        - Industrial Construction
+        - Portfolio Management
+        - Investment Performance Monitoring
+        - Due Diligence and Compliance
         - Project Management
-        - Renovations and Remodeling
-        - Safety Standards
-        - Sustainable Building Practices
+        - Market Research and Insights
+        - Risk Assessment and Management
+        - Business Growth Support
 
-    - layout: list
-      title: Sustainability & Wellness
-      content:
-        - Recreational Parks
-        - Park and Public Squares
-        - Parkland
 
     - layout: values
       title: Benefits
       content:
-        - value: 10
+        - value: 3
           afterValue: +
           label: Years <br>Experience
 
-        - value: 99
+        - value: 500
           afterValue: +
-          label: Billion <br>Invested
+          label: thousand <br>Invested
 
-        - value: 10
+        - value: 4
           afterValue: +
-          label: Years <br>Experience
+          label: Invested <br> Projects
 
-        - value: 99
+        - value: 500
           afterValue: +
-          label: Billion <br>Invested
+          label: thousand <br>Invested
 
     - layout: list
       title: Project agent
       content:
-        - Yaslam Osman
-        - yaslam.eng@gmail.com
-        - +252 (61) 069-70-70
+        - Jirdeh Hussein
+        - khalifjirdeh@gmail.com
+        - +252 (61) 577-08-87
 
 gallery:
   - image: /img/covers/1.jpg

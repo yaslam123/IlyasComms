@@ -10,6 +10,13 @@
       "icon": "/img/icons/9.svg",
       "num": "01.",
       "title": "ICT Solutions",
+      "text": "Boosting Your Business with Advanced Technology Solutions",
+      "link": "/services"
+    },
+    {
+      "icon": "/img/icons/9.svg",
+      "num": "01.",
+      "title": "Investment",
       "text": "Empowering Your Business with Cutting-Edge Technology Solutions",
       "link": "/services"
     },
@@ -23,7 +30,7 @@
     {
       "icon": "/img/icons/4.svg",
       "num": "03.",
-      "title": "Media Production",
+      "title": "Logistic",
       "text": "Transform Your Brand with Stunning Visual Media: Creating Content that Resonates",
       "link": "/services"
     }

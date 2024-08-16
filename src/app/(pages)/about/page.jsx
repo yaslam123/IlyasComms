@@ -45,12 +45,12 @@ const About = () => {
       <PageBanner
         pageTitle={"About us"}
         breadTitle={"About"}
-        bgImage={"/img/Personal/About bg.jpeg"}
+        bgImage={"/img/Personal/ourExperteis.jpg"}
       />
       <AboutSection />
       <ServicesSection />
       <VisionSection />
-      <CoresSection />
+      {/* <CoresSection /> */}
 
       {/*  */}
       {/* <ContactInfoSection />

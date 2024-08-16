@@ -1,10 +1,10 @@
 {
   "image": {
-    "url": "/img/Personal/About us.png",
+    "url": "/img/Personal/AboutUs.png",
     "alt": "img"
   },
   "number": {
-    "value": "6",
+    "value": "3",
     "label": "<span class=\"mil-marker\">Years</span> of <br/>successful <br/>work"
   },
   "title": "Great experience",

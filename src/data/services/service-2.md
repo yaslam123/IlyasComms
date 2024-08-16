@@ -16,13 +16,15 @@ description:
   - layout: 2
     title: Benefits
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>Effective marketing strategies are instrumental in driving business growth. They create opportunities to reach new customers, build brand recognition, and differentiate your business from competitors. By leveraging various marketing channels and tactics, you can enhance your market presence, foster stronger customer relationships, and ultimately achieve your business goals. Each marketing initiative contributes to the overall success of your organization by generating leads, increasing sales, and improving customer loyalty</p>
     list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
+      - Customer Retention
+      - Market Expansion
+      - Improved Sales and Revenue
+      - Increased Brand Awareness
+      - Higher Return on Investment (ROI)
+      - Better Market Understanding
+      - Competitive Advantage
     divider: false
 
 sidebar:
@@ -42,38 +44,31 @@ sidebar:
         - Web Design and Development
         - Influencer Marketing
 
-    - layout: list
-      title: Sustainability & Wellness
-      content:
-        - Recreational Parks
-        - Park and Public Squares
-        - Parkland
-
     - layout: values
       title: Benefits
       content:
-        - value: 10
+        - value: 5
           afterValue: +
           label: Years <br>Experience
 
-        - value: 99
+        - value: 50
           afterValue: +
-          label: Billion <br>Invested
+          label: thousand <br>Invested
 
-        - value: 10
+        - value: 30
           afterValue: +
-          label: Years <br>Experience
+          label: success <br>Clients
 
-        - value: 99
+        - value: 20
           afterValue: +
-          label: Billion <br>Invested
+          label: thousand <br>Invested
 
     - layout: list
       title: Project agent
       content:
-        - Yaslam Osman
-        - yaslam.eng@gmail.com
-        - +252 (61) 069-70-70
+        - Sihaam C/laahi Ciise
+        - Fromissam99@gmail.com
+        - +252 (61) 698-39-84
 
 gallery:
   - image: /img/covers/1.jpg

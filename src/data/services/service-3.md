@@ -1,28 +1,28 @@
 ---
 #preview details
-title: "Media Production"
+title: "Logistic"
 icon: "/img/icons/4.svg"
-short: "Transform Your Brand with Stunning Visual Media: Creating Content that Resonates"
+short: "TABAN LOGISTICS ensures efficient goods movement with comprehensive logistics management."
 
 #full details
 description:
   - layout: 1
     title: Description
     content:
-      <p>At Taban Enterprise Media, we specialize in creating captivating visual content that engages and inspires your audience. Our talented team excels in video production, photography, and graphic design, ensuring that your brand's story is told with creativity and precision. We understand the power of visual media in communicating your message and building your brand, and we are dedicated to delivering exceptional results that resonate with your target audience.About Us (Media).</p>
-      <p>Who We Are Taban Enterprise Media is dedicated to crafting high-quality visual content that tells your story and elevates your brand. With a team of creative professionals, we deliver innovative media solutions tailored to your needs.</p>
+      <p>Taban Logistics ensures streamlined logistics processes that enhance operational efficiency. We focus on optimizing resource management and forecasting to reduce expenses. Our reliable transportation solutions guarantee timely and safe delivery, while our secure storage and inventory management keep products protected. We offer flexible services that adapt to your business needs, supported by professional guidance and consulting. Advanced analytics provide valuable insights for improved decision-making and planning.</p>
     divider: true
 
   - layout: 2
     title: Benefits
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>Taban Logistics ensures streamlined logistics processes that enhance operational efficiency. We focus on optimizing resource management and forecasting to reduce expenses. Our reliable transportation solutions guarantee timely and safe delivery, while our secure storage and inventory management keep products protected..</p>
+      <p We offer flexible services that adapt to your business needs, supported by professional guidance and consulting. Advanced analytics provide valuable insights for improved decision-making and planning.</p>
     list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
+      - Enhanced Efficiency
+      - Improved Reliability
+      - Secure Storage
+      - Expert Support
+
     divider: false
 
 sidebar:
@@ -31,44 +31,38 @@ sidebar:
     - layout: list
       title: Our Services
       content:
-        - Video Production
-        - Photography
-        - Graphic Design
-        - Animation
-        - Web Design
-
-    - layout: list
-      title: Sustainability & Wellness
-      content:
-        - Recreational Parks
-        - Park and Public Squares
-        - Parkland
+        - Transportation Management
+        - Warehousing Solutions
+        - Material Handling
+        - Demand Forecasting
+        - Customer Service
+        - Logistics Consulting
 
     - layout: values
       title: Benefits
       content:
-        - value: 10
+        - value: 3
           afterValue: +
           label: Years <br>Experience
 
+        - value: 50
+          afterValue: +
+          label: thousand <br>Invested
+
+        - value: 40
+          afterValue: +
+          label: success <br> Clients 
+
         - value: 99
           afterValue: +
-          label: Billion <br>Invested
-
-        - value: 10
-          afterValue: +
-          label: Years <br>Experience
-
-        - value: 99
-          afterValue: +
-          label: Billion <br>Invested
+          label: Pidding <br> Projects
 
     - layout: list
       title: Project agent
       content:
-        - Yaslam Osman
-        - yaslam.eng@gmail.com
-        - +252 (61) 069-70-70
+        - Sharmake Mohamed
+        - Sharmamohamed12@gmail.com
+        - +252 (61) 6-93-56-29
 gallery:
   - image: /img/covers/1.jpg
     alt: image

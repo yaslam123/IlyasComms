@@ -17,13 +17,16 @@ description:
   - layout: 2
     title: Benefits
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>At Taban Enterprise, our Investment Sector is dedicated to unlocking substantial value and driving growth through strategic investment opportunities. We focus on delivering the following benefits to ensure exceptional outcomes</p>
     list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
+      - Data Security
+      - Enhanced Efficiency
+      - Scalability
+      - Cost Savings
+      - Innovative Solutions
+      - Enhanced Customer Experience
+      - Better Decision-Making
+
     divider: false
 
 sidebar:
@@ -42,38 +45,31 @@ sidebar:
         - System Integration
         - Tech Support
 
-    - layout: list
-      title: Sustainability & Wellness
-      content:
-        - Recreational Parks
-        - Park and Public Squares
-        - Parkland
-
     - layout: values
       title: Benefits
       content:
-        - value: 10
+        - value: 5
           afterValue: +
           label: Years <br>Experience
 
-        - value: 99
-          afterValue: +
-          label: Billion <br>Invested
-
         - value: 10
           afterValue: +
-          label: Years <br>Experience
+          label: thousand <br>Invested
 
-        - value: 99
+        - value: 50
           afterValue: +
-          label: Billion <br>Invested
+          label: worked <br> Clients
+
+        - value: 100
+          afterValue: +
+          label:  <br>Projects
 
     - layout: list
       title: Project agent
       content:
-        - Yaslam Osman
-        - Yaslam.eng@gmail.com
-        - (252) 610 - 697070
+        - Hussein Mohamed
+        - huseinmoali@gmail.com
+        - +252 (61) 980-51-95
 
 gallery:
   - image: /img/covers/1.jpg
