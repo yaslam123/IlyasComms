@@ -31,9 +31,9 @@ async function Home1() {
       <AboutSection />
       <ServicesSection />
       <VisionSection />
-      <Suspense fallback={<div>Loading...</div>}>
+      {/* <Suspense fallback={<div>Loading...</div>}>
         <LatestPostsSection id="custom-background" posts={posts} />
-      </Suspense>
+      </Suspense> */}
     </>
   );
 }

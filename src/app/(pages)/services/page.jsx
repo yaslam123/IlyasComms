@@ -42,12 +42,9 @@ async function Services() {
                   Modern concept
                 </span>
                 <p className="mil-text-lg mil-up">
-                  At Taban Enterprise, we are leaders in architecture and design
-                  with a user-centric approach and deep technical expertise.
-                  Consistently ranked among the top firms globally, our core
-                  disciplines are supported by a wide range of complementary
-                  services. Our singular goal is to build environments where our
-                  clients thrive.
+                Our Services
+
+                At Taban Construction and Consultant, we proudly offer a diverse range of services across multiple industries to meet the unique needs of our clients. Our expertise spans ICT solutions, including website development, software solutions, IT consulting, and digital transformation strategies, aimed at helping businesses leverage technology for growth. In marketing and branding, we provide comprehensive services such as digital marketing, social media management, content creation, and branding strategies to enhance market presence. Our investment consultancy focuses on offering expert advice on asset management, portfolio diversification, and strategic investments for sustainable financial growth. Additionally, our logistics and supply chain management services ensure the efficient transportation, warehousing, and distribution of goods, optimizing supply chain operations for our clients.
                 </p>
               </div>
             </div>

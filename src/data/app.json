@@ -38,26 +38,14 @@
           }
         ]
       },
-      {
-        "label": "Blog",
-        "link": "/#",
-        "children": [
-          {
-            "label": "Blog list",
-            "link": "/blog"
-          },
-          {
-            "label": "Publication",
-            "link": "/blog/the-infrastructure-that-powers-the-world"
-          }
-        ]
-      },
+   
       {
         "label": "Contact Us",
         "link": "/contact"
       }
     ]
   },
+  
   "footer": {
     "logo": {
       "image": "/img/logo/taban-04-05.png",
